@@ -17,14 +17,3 @@ To create a source distribution :
 
 More info :
 http://docs.python.org/distutils/
-
-
-# To generate the documentation
-
-```bash
-cd doc
-make apidoc
-make html
-```
-Documentation is then available in:
-`--> _build/index.html`
