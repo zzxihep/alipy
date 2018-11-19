@@ -22,5 +22,7 @@ http://docs.python.org/distutils/
 
 sextractor
 The executable must be available as sex, not as sextractor. Make an alias if required.
+
 For Ubuntu
+
 `sudo apt install sextractor`
